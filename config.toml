@@ -136,8 +136,8 @@ uglyURLs = false
 
 # lunr.js 的搜索索引
 # [outputFormats.SearchIndex]
-#     mediaType = "application/json"
-#     baseName = "search"
+#      mediaType = "application/json"
+#      baseName = "search"
 
 # Hugo 的输出控制
 [outputs]
@@ -323,12 +323,12 @@ uglyURLs = false
     # 说明：用于 JSON-LD、Open Graph
 
     # 站点的描述
-    siteDescription = "MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。"
+    siteDescription = "日常记录"
     # 说明：用于 HTML 的头部元数据、JSON-LD、
     #      Open Graph、Atom、RSS
 
     # 站点的创建时间
-    siteCreatedTime = "1969-07-20T20:17:43+00:00"
+    siteCreatedTime = "2020-12-17T11:17:43+00:00"
     # 注意：请保持此格式，更改数字
 
     # 站点的推特帐号
@@ -554,7 +554,7 @@ uglyURLs = false
     # MathJax 公式支持（包括化学方程式）
 
     # 是否开启（全局设置）
-    enableMathJax = false
+    enableMathJax = true
     # 说明：文章的 Front Matter 中的 `mathjax`
     #      的优先级高于此处
 
@@ -819,7 +819,7 @@ uglyURLs = false
     #      (~/blog/static/images/meme.jpg)
 
     # 是否开启
-    enableImageHost = false
+    enableImageHost = true
 
     # 图片外链地址
     imageHostURL = "https://example.com/"
@@ -840,7 +840,7 @@ uglyURLs = false
     #      `<video src="`
 
     # 是否开启
-    enableVideoHost = false
+    enableVideoHost = true
 
     # 视频外链地址
     videoHostURL = "https://example.com/"
@@ -951,7 +951,7 @@ uglyURLs = false
     ## 首字下沉
 
     # 是否开启（全局设置）
-    enableDropCap = false
+    enableDropCap = true
     # 说明：文章的 Front Matter 中的 `dropCap`
     #      的优先级高于此处
 
