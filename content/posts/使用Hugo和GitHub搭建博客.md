@@ -299,5 +299,5 @@ git checkout master
 
 IP地址是通过 `ping <USERNAME>.github.io ` 得到的。完成之后，登录到 GitHub ，进行如下修改，应该会产生 CNAME 文件，里面是你的域名地址，例如 `fanxi.wang` ，如果没有你就自己新建一个。回到你的 Blog 目录，执行 `git pull` 即可。
 
-![github pages.png](http://rancbos.gitee.io/images/github pages.png)
+![github pages.png](http://www.rancbos.gitee.io/images/githubpages.png)
 
